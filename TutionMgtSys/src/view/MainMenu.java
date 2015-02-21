@@ -62,8 +62,6 @@ public class MainMenu extends javax.swing.JFrame {
         jTextField1.setBackground(new java.awt.Color(102, 102, 102));
         jTextField1.setBorder(javax.swing.BorderFactory.createEtchedBorder());
         jPanel1.add(jTextField1, new org.netbeans.lib.awtextra.AbsoluteConstraints(770, 20, 170, 30));
-
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\vijaya\\Desktop\\icon\\mix\\bar.png")); // NOI18N
         jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1000, 60));
 
         jPanel3.add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(2, -3, 1000, 60));
